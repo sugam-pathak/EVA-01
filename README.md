@@ -2,7 +2,8 @@
 
 A Neon Genesis Evangelion inspired HUD overlay for your browser. Makes your web browsing feel like you're piloting an EVA unit.
 
-![EVA HUD Preview](https://i.imgur.com/placeholder.png)
+![EVA HUD Preview](<img width="1334" height="688" alt="image" src="https://github.com/user-attachments/assets/a0e4fbc0-55d9-4eae-a541-b84dd7200c94" />
+)
 
 ## ✨ Features
 
@@ -32,4 +33,4 @@ Type these in the AI command input:
 
 1. **Download or clone this repository**
    ```bash
-   git clone https://github.com/yourusername/eva-hud-extension.git
+   git clone https://github.com/sugam-pathak/EVA-O1.git
