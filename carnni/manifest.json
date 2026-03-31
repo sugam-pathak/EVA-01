@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "EVA System HUD",
+    "version": "1.1.0",
+    "description": "A Pro Level Neon Genesis Evangelion-inspired interface overlay for the Chrome browser.",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Toggle EVA HUD"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "content/hud.html",
+                "content/hud.css",
+                "content/hud.js"
+            ],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}
